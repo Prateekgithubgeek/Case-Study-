@@ -1,4 +1,4 @@
-﻿/* Tanaygeet Shrivastava */
+﻿
 
 using System;
 using System.Collections.Generic;

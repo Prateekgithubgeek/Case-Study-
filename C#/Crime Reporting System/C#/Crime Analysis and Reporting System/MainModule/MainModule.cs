@@ -1,5 +1,4 @@
-﻿/* Tanaygeet Shrivastava */
-
+﻿
 using System;
 using Crime_Analysis_and_Reporting_System.BusinessLayer;
 using Crime_Analysis_and_Reporting_System.Entity;
